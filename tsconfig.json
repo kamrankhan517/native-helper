@@ -14,7 +14,8 @@
     "pretty": true,
     "sourceMap": true,
     "strict": true,
-    "target": "es2017"
+    "target": "esnext",
+    "jsx": "preserve"
   },
   "files": ["src/index.ts"]
 }
